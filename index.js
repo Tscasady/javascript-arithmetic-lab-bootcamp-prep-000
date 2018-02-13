@@ -17,3 +17,8 @@ function divide (a,b){
   var quotient = a / b
   return quotient
 }
+
+function inc(n){
+  n += 1
+  return n
+}
